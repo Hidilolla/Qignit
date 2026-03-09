@@ -1,13 +1,13 @@
 //
-//  QenetUITestsLaunchTests.swift
-//  QenetUITests
+//  QignitUITestsLaunchTests.swift
+//  QignitUITests
 //
 //  Created by Bikila Diriba on 3/5/26.
 //
 
 import XCTest
 
-final class QenetUITestsLaunchTests: XCTestCase {
+final class QignitUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

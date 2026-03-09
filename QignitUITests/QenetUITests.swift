@@ -1,13 +1,13 @@
 //
-//  QenetUITests.swift
-//  QenetUITests
+//  QignitUITests.swift
+//  QignitUITests
 //
 //  Created by Bikila Diriba on 3/5/26.
 //
 
 import XCTest
 
-final class QenetUITests: XCTestCase {
+final class QignitUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

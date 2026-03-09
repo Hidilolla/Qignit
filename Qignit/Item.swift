@@ -1,6 +1,6 @@
 //
 //  Item.swift
-//  Qignit
+//  Qenet
 //
 //  Created by Bikila Diriba on 3/5/26.
 //
