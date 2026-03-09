@@ -37,7 +37,7 @@ enum EthiopianScale: String, CaseIterable, Identifiable, Codable {
     /// Intervals in semitones from the root for each pentatonic mode.
     var intervals: [Int] {
         switch self {
-        case .tizita:    return [0, 2, 4, 7, 9]     // C D E G A
+        case .tizita:    return [0, 2, 4, 7, 9]      // C D E G A
         case .bati:      return [0, 3, 5, 7, 10]     // C Eb F G Bb
         case .ambassel:  return [0, 1, 5, 7, 8]      // C Db F G Ab
         case .anchihoye: return [0, 2, 5, 7, 10]     // C D F G Bb

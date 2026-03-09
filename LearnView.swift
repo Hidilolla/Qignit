@@ -15,7 +15,7 @@ struct LearnView: View {
                 }
                 .padding()
             }
-            .background(Color(.systemGroupedBackground))
+            .background(Color(red: 0.94, green: 0.98, blue: 0.95))
             .navigationTitle("Learn")
         }
     }
@@ -26,7 +26,7 @@ struct LearnView: View {
         VStack(spacing: 12) {
             Image(systemName: "music.note.list")
                 .font(.system(size: 48))
-                .foregroundStyle(.accent)
+                .foregroundStyle(Color.accentColor)
                 .symbolEffect(.pulse, isActive: true)
             
             Text("Ethiopian Kiñit")
